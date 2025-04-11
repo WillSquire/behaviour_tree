@@ -1,5 +1,5 @@
 import { test, expect } from "vitest";
-import type { Node } from "../node/node";
+import type { Node } from "../../node/node";
 import { sequence } from "./sequence";
 
 test("should return true when all nodes return true", async () => {

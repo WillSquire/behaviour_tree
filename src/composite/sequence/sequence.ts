@@ -1,4 +1,4 @@
-import type { Node } from "../node/node";
+import type { Node } from "../../node/node";
 
 export const sequence =
   <T>(nodes: Node<T>[]) =>
