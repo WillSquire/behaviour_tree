@@ -1,1 +1,1 @@
-export type Node<T> = (blackboard: T) => Promise<T>
+export type Node<T> = (blackboard: T) => Promise<T>;
