@@ -1,0 +1,17 @@
+{
+  "name": "behaviour_tree",
+  "version": "1.0.0",
+  "description": "A modular, type-safe Behaviour Tree library for building AI logic in TypeScript. Designed to provide a behaviour tree framework.",
+  "keywords": ["behaviour", "tree", "typescript", "ai"],
+  "homepage": "https://github.com/WillSquire/behaviour_tree",
+  "bugs": {
+    "url": "https://github.com/WillSquire/behaviour_tree/issues"
+  },
+  "author": "Will Squire",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WillSquire/behaviour_tree.git"
+  },
+  "files": ["dist"],
+  "type": "module"
+}
