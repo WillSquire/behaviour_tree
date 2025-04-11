@@ -21,9 +21,10 @@
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "forceConsistentCasingInFileNames": true,
-    "module": "preserve",
-    "noEmit": true,
+    "module": "NodeNext",
+    "outDir": "dist",
     "rootDir": "src",
+    "sourceMap": true,
     "checkJs": true,
     "declaration": true,
     "declarationMap": true

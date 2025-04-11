@@ -29,6 +29,9 @@
     "typescript": "^5.8.3"
   },
   "scripts": {
+    "build": "tsc",
+    "ci": "npm run build && npm run check-format",
+    "format": "prettier --write .",
     "prepare": "husky"
   },
   "lint-staged": {
