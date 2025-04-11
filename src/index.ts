@@ -1,1 +1,1 @@
-export type { Node } from "./node";
+export type { Node } from "./node/node";
