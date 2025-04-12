@@ -22,7 +22,6 @@
     "noUnusedParameters": true,
     "forceConsistentCasingInFileNames": true,
     "module": "Preserve",
-    "checkJs": true,
     "noEmit": true
   }
 }
