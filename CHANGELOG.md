@@ -1,5 +1,11 @@
 # behaviour_tree
 
+## 1.0.2
+
+### Patch Changes
+
+- 6b09f78: Added documentation to the README.
+
 ## 1.0.1
 
 ### Patch Changes
