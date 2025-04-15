@@ -55,6 +55,7 @@ await tree({
 - **Composite Nodes**:
   - `Sequence`: Runs children in order. Fails if any child fails.
   - `Selector`: Runs children in order. Succeeds if any child succeeds.
+  - `Parallel`: Runs all children in parallel. Fails if any child fails.
 - **Decorator Nodes**:
   - `Inverter`: Reverses the result of its child (success becomes failure, and vice versa).
 

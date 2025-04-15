@@ -1,5 +1,8 @@
 import type { Node } from "../../node/node";
 
+/**
+ * Runs children in order. Succeeds if any child succeeds.
+ */
 export const selector =
   <T>(nodes: Node<T>[]) =>
   async (blackboard: T) => {
