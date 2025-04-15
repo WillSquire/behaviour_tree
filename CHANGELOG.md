@@ -1,5 +1,11 @@
 # behaviour_tree
 
+## 1.0.3
+
+### Patch Changes
+
+- 2e2591b: Added parallel node & updated documentation.
+
 ## 1.0.2
 
 ### Patch Changes

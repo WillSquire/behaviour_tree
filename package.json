@@ -1,6 +1,6 @@
 {
   "name": "behaviour_tree",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A modular, type-safe Behaviour Tree library for building AI logic in TypeScript. Designed to provide a behaviour tree framework.",
   "keywords": [
     "behaviour",
